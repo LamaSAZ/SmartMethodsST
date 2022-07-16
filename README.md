@@ -1,2 +1,2 @@
 # SmartMethodsST
-Repository for all the tasks that will done by me in the summer training of the smart methods 
+This work is part of Smart Methods summer training of the electrical power and electronics department for building a robot 
