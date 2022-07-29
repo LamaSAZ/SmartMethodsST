@@ -8,7 +8,7 @@ Sensors used:
 - Analog Sensor = Temperature Sensor (TMP 36).
 - Digital Sensor = RIP Sensor
 
-The idea of the circuit is that the led will turn on if and only if the RIP sensor detect motion and the temp rise to 50 Cْ
+The idea of the circuit is that the led will turn on if and only if the RIP sensor detect motion and the temp rised to 50 Cْ
 
 ## Simulation link
 https://www.tinkercad.com/things/iZdZ05oVv6H
