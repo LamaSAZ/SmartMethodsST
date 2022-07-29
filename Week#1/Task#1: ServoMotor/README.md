@@ -7,4 +7,5 @@ In this task, it is only required to know how to control the servo motor through
 
 I connected the servo to one of the PWN pins on the Arduino so that I could control its rotation angle through simple commands.
 
-Simulation link: https://wokwi.com/projects/new/arduino-uno
+## Simulation link
+https://wokwi.com/projects/new/arduino-uno
